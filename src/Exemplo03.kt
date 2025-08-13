@@ -5,5 +5,6 @@ fun main(){
         "X-tudo"-> println("Preço: 26,00")
         "X-salada"-> println("Preço: 17,50")
         else -> println("item não encontrado no cardápio")
+
     }
 }

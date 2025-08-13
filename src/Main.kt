@@ -35,6 +35,6 @@ fun main(){
         5 -> println("Quinta")
         6 -> println("Sexta")
         7 -> println("Sabado")
-        else -> println("Nenhuma das Opç")
+        else -> println("Nenhuma das Opçao")
     }
 }

@@ -5,6 +5,7 @@ fun main(){
         in 5..6-> "Recuperação"
         else -> "Reprovado"
 
+
     }
     println(mensagem)
 }
