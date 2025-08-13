@@ -11,7 +11,6 @@ fun main () {
 
         opcao = readLine()?.toIntOrNull()
 
-
         when (opcao) {
             1 -> println("Voce escolheu X-Bacon. Preço R$20,00")
             2 -> println("Voce escolheu X-Tudo. Preço R$22,00")
